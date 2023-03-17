@@ -70,7 +70,7 @@ NCEI id,County,State,Datetime,WFO,Comment
 1060966,Jackson,MS,2022-10-29T21:27,LIX,Time possibly incorrect. Storm moved through area at 22:30Z or an hour later than event entry time
 1062031,Jackson,MS,2022-10-29T22:33,LIX,Time possibly incorrect. Storm moved through area at 21:30Z or an hour earlier than event entry time
 1055772,Baldwin,AL,2022-10-29T23:50,MOB,Missing 3 injuries
-1057183,Caddo,LA,2022-11-05T03:57,SHV,Time possibly incorrect. Storm moved through area at 22Z or an hour earlier than even entry time
+1057183,Caddo,LA,2022-11-05T03:57,SHV,Time possibly incorrect. Storm moved through area at 02:57Z or an hour earlier than event entry time
 1066418,Montgomery,AL,2022-11-30T09:15,BMX,This section of the track should be rated EF2
 ,Madison,LA,2022-12-14T04:19,JAX,EF1 tornado missing from Storm Data
 ,Sharkey,MS,2022-12-14T05:12,JAX,EF2 tornado missing from Storm Data
