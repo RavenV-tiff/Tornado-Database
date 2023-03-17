@@ -39,34 +39,65 @@ NCEI id,County,State,Datetime,WFO,Comment
 1035402,Morgan,CO,2022-07-07T22:49,BOU,Time possibly incorrect. Storm moved through area at 21:50Z or an hour earlier than event entry time
 1035404,Morgan,CO,2022-07-07T22:51,BOU,Time possibly incorrect. Storm moved through area at 21:50Z or an hour earlier than event entry time
 1045059,,PR,2022-07-09T18:30,SJU,Waterspout but made landfall and caused damage
-,Tooele,UT,2022-07-13T19:50,SLC,Landspout tornado missing from Storm Data. Photo evidence
-1030823,Galveston,TX,2022-07-14T22:15,HGX,Waterspout but made landfall
+,Tooele,UT,2022-07-13T19:50,SLC,Landspout tornado missing from Storm Data
+1030823,Galveston,TX,2022-07-14T22:15,HGX,Waterspout made landfall
 ,Esmeralda,NV,2022-07-15T22:30,VEF,Landspout tornado missing from Storm Data
 ,Clay,MN,2022-07-16T18:40,FGF,EF0 landspout tornado missing from Storm Data
 1043279,Valley,MT,2022-07-18T23:47,GGW,Missing path
-1043052,Beaufort,SC,2022-07-19T20:20,CHS,Waterspout but made landfall
+1043052,Beaufort,SC,2022-07-19T20:20,CHS,Waterspout made landfall
 1036099,Volusia,FL,2022-07-20T19:32,MLB,Waterspout that started over land and moved offshore
 1035545,Sumter,FL,2022-07-22T23:20,TBW,Event listed as a funnel cloud but narrative also states it became a waterspout over inland lake
 1044575,Kit Carson,CO,2022-07-26T23:02,GLD,Time possibly incorrect. Storm moved through area at 22:00Z or an hour earlier than event entry time
 ,Collier,FL,2022-08-04T18:55,MFL,Landspout tornado missing from Storm Data. Started as waterspout and moved over land
 ,Salt Lake,UT,2022-08-05T17:26,SLC,Landspout tornado missing from Storm Data
-,Washington,UT,2022-08-11T22:50,SLC,Landspout tornado missing from Storm Data. Photo evidence
-,Frio,TX,2022-08-15T17:35,EWX,EF0 tornado missing from Storm Data
+,Washington,UT,2022-08-11T22:50,SLC,Landspout tornado missing from Storm Data
 ,Cheyenne,CO,2022-08-15T23:41,GLD,Landspout tornado missing from Storm Data
 ,Clark,NV,2022-08-17T23:16,VEF,Landspout tornado missing from Storm Data
 ,Lamar,MS,2022-08-24T18:04,JAN,EF0 tornado missing from Storm Data
 ,Cheyenne,KS,2022-08-31T20:29,GLD,Landspout tornado missing from Storm Data
-,Cheyenne,KS,2022-08-31T20:58,GLD,Multiple landspout tornado missing from Storm Data
+,Cheyenne,KS,2022-08-31T20:58,GLD,Multiple landspout tornadoes missing from Storm Data
 1055638,Apache,AZ,2022-09-14T00:45,FGZ,Narrative states it was a gustnado
 1055997,Delaware,NY,2022-09-25T22:38,BGM,Time possibly incorrect. Storm moved through area at 21:40Z or an hour earlier than event entry time
 1059255,Riverside,CA,2022-10-08T21:25,SGX,Possible typo in the end time. Unlikely landspout lasted more than an hour
 ,Whitewater,WI,2022-10-12T16:45,MKX,Tornado missing from Storm Data. Condensation funnel was reported to be in contact with ground
 1063264,Telfair,GA,2022-10-13T01:55,FFC,Time possibly incorrect. Storm moved through area at 00:55Z or an hour earlier than event entry time
-,Cherryville,OR,2022-10-22T23:40,PQR,EF0 tornado missing from Storm Data
+1059708,Cherryville,OR,2022-10-23T00:40,PQR,Time possibly incorrect. Storm moved through area at 23:40Z or an hour earlier than event entry time
 1061448,Canadian,OK,2022-10-24T14:27,OUN,Time possibly incorrect. Storm moved through area at 13:30Z or an hour earlier than event entry time
-,Marion,OR,2022-10-24T22:36,PQR,EF0 tornado missing from Storm Data
+1059709,Marion,OR,2022-10-24T23:40,PQR,Time possibly incorrect. Storm moved through area at 22:35Z or an hour earlier than event entry time. Time duration may be incorrect also
+1057369,Okaloosa,FL,2022-10-29T17:35,MOB,Date is incorrect. It should be 2022-10-30
 1060965,Jackson,MS,2022-10-29T19:20,LIX,Time possibly incorrect. Storm moved through area at 20:20Z or an hour later than event entry time
 1060966,Jackson,MS,2022-10-29T19:28,LIX,Time possibly incorrect. Storm moved through area at 20:30Z or an hour later than event entry time
 1060966,Jackson,MS,2022-10-29T21:27,LIX,Time possibly incorrect. Storm moved through area at 22:30Z or an hour later than event entry time
 1062031,Jackson,MS,2022-10-29T22:33,LIX,Time possibly incorrect. Storm moved through area at 21:30Z or an hour earlier than event entry time
 1055772,Baldwin,AL,2022-10-29T23:50,MOB,Missing 3 injuries
+1057183,Caddo,LA,2022-11-05T03:57,SHV,Time possibly incorrect. Storm moved through area at 22Z or an hour earlier than even entry time
+1066418,Montgomery,AL,2022-11-30T09:15,BMX,This section of the track should be rated EF2
+,Madison,LA,2022-12-14T04:19,JAX,EF1 tornado missing from Storm Data
+,Sharkey,MS,2022-12-14T05:12,JAX,EF2 tornado missing from Storm Data
+,Sharkey,MS,2022-12-14T05:21,JAX,EF2 tornado missing from Storm Data
+,Humphreys,MS,2022-12-14T05:56,JAX,EF1 tornado missing from Storm Data
+,Holmes,MS,2022-12-14T07:04,JAX,EF0 tornado missing from Storm Data
+,Adams,MS,2022-12-14T08:54,JAX,EF1 tornado missing from Storm Data
+,Jefferson,MS,2022-12-14T09:24,JAX,EF1 tornado missing from Storm Data
+,Forrest,MS,2022-12-14T10:44,JAX,EF0 tornado missing from Storm Data
+,Jones,MS,2022-12-14T11:09,JAX,EF1 tornado missing from Storm Data
+,Hinds,MS,2022-12-14T11:16,JAX,EF0 tornado missing from Storm Data
+,Copiah,MS,2022-12-14T11:48,JAX,EF1 tornado missing from Storm Data
+,Madison,MS,2022-12-14T12:03,JAX,EF1 tornado missing from Storm Data
+,Rankin,MS,2022-12-14T12:30,JAX,EF0 tornado missing from Storm Data
+,Rankin,MS,2022-12-14T12:44,JAX,EF2 tornado missing from Storm Data
+,Scott,MS,2022-12-14T13:38,JAX,EF1 tornado missing from Storm Data
+,Scott,MS,2022-12-14T13:58,JAX,EF1 tornado missing from Storm Data
+,Jefferson Davis,MS,2022-12-14T13:59,JAX,EF1 tornado missing from Storm Data
+,Newton,MS,2022-12-14T18:09,JAX,EF2 tornado missing from Storm Data
+,Forrest,MS,2022-12-14T19:14,JAX,EF2 tornado missing from Storm Data
+,Lauderdale,MS,2022-12-14T19:57,JAX,EF1 tornado missing from Storm Data
+,Clarke,MS,2022-12-14T20:19,JAX,EF2 tornado missing from Storm Data
+,Forrest,MS,2022-12-14T21:28,JAX,EF1 tornado missing from Storm Data
+,Pearl River,MS,2022-12-14T21:57,LIX,EF0 tornado missing from Storm Data
+1069521,St. Landry,LA,2022-12-14T15:25,LCH,No path for this entry and no width
+1071405,St. Benard,LA,2022-12-14T16:02,LIX,Possible double count of injuries and damages
+1067645,Hernando,FL,2022-12-15T15:48,TBW,First and second segment of this tornado share the same datetime
+1069522,St. Martin,LA,2022-12-15T17:16,LCH,Date is incorrect. It should be 2022-12-14
+1063858,Pinellas,FL,2022-12-15T22:01,TBW,Time is in UTC for the entry. The correct local time should be 12:01
+1063870,Sarasota,FL,2022-12-16T01:15,TBW,Time is in UTC for the entry. The correct local time should be 20:15
