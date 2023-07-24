@@ -6,7 +6,7 @@ United States tornado database consisting of vetted NCEI data and DAT tracks.
 Most detailed tracks are sourced from the Damage Assessment Toolkit. Extra care is taken to ensure tracks are in the correct direction tornado traveled. Test cases are removed.
 
 ### Event Pages
-Occasionally detailed tracks are sourced from event pages when not in DAT. Event pages may have detailed tracks in the for of KMLs or images. In the case of NWS OUN, most detailed tornado tracks are only from images in their tornado database.
+Occasionally detailed tracks are sourced from event pages when not in DAT. Event pages may have detailed tracks in the form of KMLs or images. In the case of NWS OUN, most detailed tornado tracks are only in images from their tornado database.
 
 ### NCEI Storm Data
 Official database of the NWS. When tornadoes are not in DAT they are sourced from Storm Data. Stats such as length, width, damage, injuries/fatalities and narratives are from Storm Data. Occasionally Storm Data contains errors or inconsistencies from PNS and DAT sources and are marked in the error spreadsheet.
