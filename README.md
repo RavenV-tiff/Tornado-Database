@@ -12,11 +12,11 @@ Occasionally detailed tracks are sourced from event pages when not in DAT. Event
 Official database of the NWS. When tornadoes are not in DAT they are sourced from Storm Data. Stats such as length, width, damage, injuries/fatalities and narratives are from Storm Data. Occasionally Storm Data contains errors or inconsistencies from PNS and DAT sources and are marked in the error spreadsheet.
 
 ### [LSR](https://www.spc.noaa.gov/climo/reports/)
-Local Storm Reports are mainly used for near real-time tornadoes when other sources are not available. Most are removed once final yearly data is available. Occasionally tornadoes are only recorded in LSRs and care is taken to ensure these reports are credible, missing tornadoes during the post year review.
+Local Storm Reports are mainly used for near real-time tornadoes when other sources are not available. Most are removed once final yearly data are available. Some tornadoes are only recorded in LSRs and care is taken to ensure these reports are credible, missing tornadoes during the post year review.
 
 ## Derived data
 ### Storm Morphologies and Tornado Types
-Low resolution radar imagery of tornadic systems are reviewed to determine storm type. The time of tornado is also validated using this radar data. Since the images used are low resolution, the certainty of storm type may be less than with native level-2 resolution. Tornado types are given as either tornadic or landspout in nature from event narratives.
+Low resolution radar imagery of tornadic systems are reviewed to determine storm type. The time of tornado is also validated using this radar imagery. Since the images used are low resolution, the certainty of storm type may be less than with native level-2 resolution data. Tornado types are given as either tornadic or landspout in nature from event narratives.
 #### Supercell example
 ![image](https://github.com/RavenV-tiff/Tornado-Database/assets/60206946/0b546b52-6f74-40bc-aad0-9417023ce5bf)
 
