@@ -33,4 +33,4 @@ Classification for a line of cells. Hybrid or embedded supercells are included i
 Classification for unorganized cell or group of cells. Most often associated with landspout tornadoes.
 
 ### MRMS Convective Features
-Some years have convective feature data. The tornadoes have been paired with MRMS 6-minutely data and contain basic radar properties and shapes from the MRMS dataset. This is an automated process where the area under the fitted ellipse is paired with a collocated tornado. However, there's no guarantee the feature paired is the correct one for the tornado. A convective feature is a grouping of four countinuous 1-km pixels of 40 dBZ composite reflectivity or greater.
+Some years have convective feature data. The tornadoes have been paired with MRMS 6-minute data and contain basic radar properties and shapes from the MRMS dataset. This is an automated process where the area under the fitted ellipse is paired with a collocated tornado. However, there's no guarantee the feature paired is the correct one for the tornado. A convective feature is a grouping of four countinuous 1-km pixels of 40 dBZ composite reflectivity or greater.
