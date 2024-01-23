@@ -27,7 +27,7 @@ Classification for rotating descreate cells. Often associated with strong tornad
 
 Classification for a line of cells. Hybrid or embedded supercells are included in this group.
 
-#### Multicell example
+#### Disorganized example
 ![image](https://github.com/RavenV-tiff/Tornado-Database/assets/60206946/6cee888e-f666-47ef-b302-7117ebc114ad)
 
 Classification for unorganized cell or group of cells. Most often associated with landspout tornadoes.
