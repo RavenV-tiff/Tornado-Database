@@ -34,20 +34,13 @@ NCEI id,County,State,Datetime,WFO,Comment
 1083270,Christian,IL,2023-03-31T19:13,ILX,Time incorrect. No storms are present in the area until 00Z. The proposed correct time is 2023-04-01T00:13
 1083273,Champaign,IL,2023-04-01T00:39,ILX,Missing 2 injuries
 1093449,Marion,AL,2023-04-01T07:32,BMX,Possible double count of injuries
-1091003,Sussex,DE,2023-04-01T21:59,PHI,Missing track
-1090977,Bucks,PA,2023-04-01T22:46,PHI,Missing track
-1091022,Burlington,NJ,2023-04-01T22:59,PHI,Missing track
 1091063,Burlington,NJ,2023-04-01T23:08,PHI,Missing track
-1091072,Monmouth,NJ,2023-04-01T23:14,PHI,Missing track
-1091096,Ocean,NJ,2023-04-01T23:33,PHI,Missing track
-1091104,Atlantic,NJ,2023-04-01T23:42,PHI,Missing track
 ,Key West,FL,2023-04-11T00:48,KEY,Missing EF0 tornado
 ,Key West,FL,2023-04-12T11:58,KEY,Missing EF0 tornado
 ,Crisp,GA,2023-04-13T18:37,FFC,Missing EF1 tornado
 ,Parmer,TX,2023-04-13T19:59,LUB,Landspout photographed
 ,Bleckley,GA,2023-04-13T20:21,FFC,Missing EF0 tornado
 1094927,McClain,OK,2023-04-20T00:30,OUN,Fatalites and injuries are swapped
-1091177,Berks,PA,2023-04-22T20:18,PHI,Missing track
 1096516,Weld,CO,2023-04-22T20:21,BOU,Wrong date. Should be 2023-04-25
 1096517,Weld,CO,2023-04-22T20:30,BOU,Wrong date. Should be 2023-04-25
 1096519,Weld,CO,2023-04-22T20:51,BOU,Wrong date. Should be 2023-04-25
@@ -58,7 +51,6 @@ NCEI id,County,State,Datetime,WFO,Comment
 1098693,Renville,MN,2023-05-06T23:42,MPX,Time likely incorrect. Storm passage at 22:40Z
 1093830,Renville,MN,2023-05-07T00:18,MPX,Time likely incorrect. Storm passage at 23:20Z
 1098699,Lac Qui Parle,MN,2023-05-07T00:20,MPX,Time likely incorrect. Storm passage at 23:20Z
-,Jefferson,AR,2023-05-10T18:05,LZK,Tornado videoed
 ,Washington,CO,2023-05-11T00:18,BOU,Brief Landspout
 ,Gove,KS,2023-05-11T20:10,GLD,Brief tornado reported
 ,Red Willow,NE,2023-05-11T22:15,GLD,Public report of a tornado
@@ -86,25 +78,11 @@ NCEI id,County,State,Datetime,WFO,Comment
 ,Huron,OH,2023-06-15T23:47,CLE,Starting location is possibly incorrect. Original survey start location to the south
 ,Taylor,FL,2023-06-16T05:31,TAE,Missing EF0 tornado
 ,Taylor,FL,2023-06-16T07:21,TAE,Missing EF0 tornado
-,Hinds,MS,2023-06-16T09:55,JAN,Missing EF1 tornado
 1097137,Pinellas,FL,2023-06-16T20:10,TBW,Waterspout made landfall and injured 2 people. Should be reclassified a tornado
 1114146,Baldwin,AL,2023-06-17T21:30,MOB,Possible typo with width of 820 yards. Originally 20 yards
 1098290,Stonewall,TX,2023-06-17T23:18,LUB,End time may be incorrect. 23:29Z is the proposed correct time
-,Clarke,MS,2023-06-18T15:53,JAN,Missing EF1 tornado
-,Madison,MS,2023-06-19T00:41,JAN,Missing EF0 tornado
-,Madison,MS,2023-06-19T00:57,JAN,Missing EF1 tornado
-,Scott,MS,2023-06-19T01:04,JAN,Missing EF1 tornado
-,Rankin,MS,2023-06-19T01:30,JAN,Missing EF1 tornado
-,Rankin,MS,2023-06-19T01:56,JAN,Missing EF0 tornado
-,Rankin,MS,2023-06-19T02:05,JAN,Missing EF2 tornado
-,Rankin,MS,2023-06-19T02:21,JAN,Missing EF0 tornado
-,Rankin,MS,2023-06-19T02:26,JAN,Missing EF1 tornado
-,Smith,MS,2023-06-19T03:24,JAN,Missing EF0 tornado
-,Smith,MS,2023-06-19T03:27,JAN,Missing EF0 tornado
-,Smith,MS,2023-06-19T03:53,JAN,Missing EF1 tornado
-,Smith,MS,2023-06-19T03:59,JAN,Missing EF1 tornado
-,Jasper,MS,2023-06-19T04:30,JAN,Missing EF2 tornado
-,Marion,MS,2023-06-19T13:49,JAN,Missing EF0 tornado
+1151484,Smith,MS,2023-06-19T03:53,JAN,105 mph EF1 in original survey and in event narrative
+1151485,Smith,MS,2023-06-19T03:59,JAN,90 mph EF1 in original survey and in event narrative
 ,Rolette,ND,2023-06-21T02:35,BIS,Missing EF1 tornado identified by NTP to have started in ND
 1107961,Washington,CO,2023-06-21T22:43,BOU,Dupicate of 1107956. Path is same but times are different
 1108817,Washington,CO,2023-06-21T22:52,BOU,Duplicate of 1108816
@@ -133,7 +111,6 @@ NCEI id,County,State,Datetime,WFO,Comment
 1126200,Las Animas,CO,2023-07-09T02:44,PUB,"End point or end time likely wrong. Narrative states it was brief, but to travel 10.2 mi in 4 minutes would mean the tornado was moving at 150 mph. Original LSRs supports the endtime should be 03Z"
 1114269,Pottawattamie,IA,2023-07-12T11:32,OAX,Event entry path is much shorter than original survey and does not follow path taken in fields by satellite imagery
 1126617,Kane,IL,2023-07-12T23:16,LOT,Original survey width is 440 yards but listed as 110 in entries. No clarification in narrative about change
-,Cook,IL,2023-07-13T00:02,LOT,Missing EF0 tornado
 1114678,St. Joseph,MI,2023-07-13T03:09,IWX,90 MPH EF1 in original survey
 ,Rock,WI,2023-07-13T23:13,MKX,Missing EF0 tornado
 ,Aguada,PR,2023-07-16T19:08,SJU,Missing EF1 tornado
@@ -143,20 +120,10 @@ NCEI id,County,State,Datetime,WFO,Comment
 1127245,Hand,SD,2023-07-26T01:55,ABR,Tornado end point does not match where the damage survey located a collapsed shed
 1125199,Loup,NE,2023-07-26T02:25,LBF,Missing path data
 1108813,Jefferson,WI,2023-07-29T03:28,MKX,95 MPH EF1 in original survey
-1120759,Kendall,IL,2023-07-29T03:52,LOT,Missing Will Co portion of tornado
-1120761,Grundy,IL,2023-07-29T03:53,LOT,Missing Will Co portion of tornado
 1124133,Whitley,IN,2023-07-29T06:26,IWX,90 MPH EF1 in original survey
-,Crawford,OH,2023-07-29T08:58,IWX,Missing EF1 tornado
 1117235,Clay,NE,2023-07-29T11:53,GID,Tornado path extends slightly NE of start point and a few miles SE of the end of survey when reviewing satellite imagery
 1115527,Norfolk,MA,2023-07-30T00:17,BOX,105 MPH EF1 in original survey
 ,Erie,NY,2023-07-31T18:25,BUF,Waterspout moved ashore
-,Knox,MO,2023-05-05T04:13,LSX,Missing EF2 tornado
-,Adams,IL,2023-08-05T07:24,LSX,Missing EF1 tornado
-,Montgomery,MO,2023-08-12T08:37,LSX,Missing EF0 tornado
-,Marion,OH,2023-08-12T17:08,CLE,Missing EF1 tornado
-,Erie,PA,2023-08-12T17:33,CLE,Missing EF0 tornado
-,Holmes,OH,2023-08-12T19:20,CLE,Missing EF0 tornado
-,Monroe,IL,2023-08-13T22:35,LSX,Missing EF0 tornado
 ,San Bernardino,CA,2023-08-13T23:44,VEF,Landspout reported by several spotters
 1129601,Pima,AZ,2023-08-14T01:09,TWC,"Time possibly incorrect. No storms present at report time, however better match a storm at 2023-08-13T23:10"
 1137658,Key West,FL,2023-08-16T13:45,KEY,Waterspout made landfall near Higgs Beach
@@ -185,9 +152,13 @@ NCEI id,County,State,Datetime,WFO,Comment
 ,Cache,UT,2023-09-10T22:30,SLC,Landspout videoed by public
 1135484,St. Johns,FL,2023-09-11T22:00,JAX,Property damages maybe incorrect
 1121824,Windham,CT,2023-09-13T20:00,BOX,100 MPH EF1 in original survey and narrative
-,Providence,RI,2023-09-13T20:20,BOX,Missing EF1 tornado
 ,Duchesne,UT,2023-09-13T20:30,SLC,Landspout photographed
 1121861,Providence,RI,2023-09-13T21:05,BOX,100 MPH EF1 in original survey and narrative
 ,Rush,KS,2023-09-19T22:52,DDC,Highly visible landspout near Nekoma
-,Jackson,TX,2023-09-26T01:01,HGX,Missing EF0 tornado
-,Wright,MN,2023-09-30T02:47,MPX,Missing EF0 tornado
+1145729,Clark,WA,2023-10-11T22:40,PQR,Time incorrect. Should be 21:40Z
+1140943,Flager,FL,2023-10-12T12:30,JAX,Time incorrect. Should be 08:30-08:53Z
+1140297,Phelps,NE,2023-10-12T18:05,GID,Time incorrect. Should be 19:05-19:08Z
+1140298,Dawson,NE,2023-10-12T18:20,GID,Time incorrect. Should be 19:20Z
+1139051,,FL,2023-10-12T17:45,TBW,Time incorrect. Should be 05:45Z
+1144995,Webster,IA,2023-10-13T19:12,DMX,Should be EFU
+,Key West,FL,2023-11-15T11:27,KEY,Missing EF0 tornado
