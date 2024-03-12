@@ -20,7 +20,7 @@ Low resolution radar imagery of tornadic systems are reviewed to determine storm
 #### Supercell example
 ![image](https://github.com/RavenV-tiff/Tornado-Database/assets/60206946/0b546b52-6f74-40bc-aad0-9417023ce5bf)
 
-Classification for rotating descreate cells. Often associated with strong tornadoes.
+Classification for rotating discrete cells. Often associated with strong tornadoes.
 
 #### QLCS example
 ![image](https://github.com/RavenV-tiff/Tornado-Database/assets/60206946/c3e1dc94-6c36-41d6-9dd1-9bc1eb874eb1)
@@ -34,3 +34,12 @@ Classification for unorganized cell or group of cells. Most often associated wit
 
 ### MRMS Convective Features
 Some years have convective feature data. The tornadoes have been paired with MRMS 6-minute data and contain basic radar properties and shapes from the MRMS dataset. This is an automated process where the area under the fitted ellipse is paired with a collocated tornado. However, there's no guarantee the feature paired is the correct one for the tornado. A convective feature is a grouping of four countinuous 1-km pixels of 40 dBZ composite reflectivity or greater.
+
+### Satellite Reanalysis
+<p align="center">
+  <img src="https://github.com/RavenV-tiff/Tornado-Database/assets/60206946/f2a90d6b-18f8-451c-a739-6950f43061b2.png" width=45% />
+  <br>
+  <img src="https://github.com/RavenV-tiff/Tornado-Database/assets/60206946/8e19494a-6c85-4dad-9df9-898c3e406a76.png" width=45% />
+<br>
+
+Ongoing project to derive better tracks of surveyed tornadoes by reviewing satellite data, and build a climatology of tornadoes that produce ground marks. Satellites currently used are the Sentinel-2 (2018-present) and Landsat (1972-2018), however some supplemental data from Google Earth and Gray Sky aerial imagery may be used. Some of the 2023 tornado data have these satellite enhanced paths with efforts underway to analyze previous years. A number of undocumented tornadoes have been identified in this study as well.
