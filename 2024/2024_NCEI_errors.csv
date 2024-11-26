@@ -1,45 +1,67 @@
-NCEI id,County,State,Datetime,WFO,Comment
-1156690,Santa Rosa,FL,2024-01-09T08:29,MOB,Original survey and event narrative have this tornado as an EF1 with 105 MPH winds
-1151739,Coffee,GA,2024-01-09T17:55,JAX,This entry and Bacon Co. (1154910) are duplicate entries for a tornado that crossed both counties
-1149965,Pinellas,FL,2024-01-09T22:23,TBW,Time is incorrect. Should be 21:23Z determined from original survey and radar data
-1159309,Craven,NC,2024-01-10T06:03,MHX,Seems like entry time is in UTC. Should be 01:05Z
-1159305,Carteret,NC,2024-01-10T07:05,MHX,Seems like entry time is in UTC. Start time should be 02:09Z
-1159307,Carteret,NC,2024-01-10T07:05,MHX,"Seems like entry time is in UTC. Start time should be 02:09Z. Also missing another entry across the Straits. EF0 tornado damage surveyed, but removed in Storm Data and not categorized as severe thunderstorm winds or another tornado"
-,St. Lucie,FL,2024-01-15T22:37,MLB,Tornado reported and videos received on social media of a tornado on the ground west of I95
-,Sonoma,CA,2024-02-01T19:11,MTR,Video shows tornado near Two Rock
-1163222,Haskell,TX,2024-02-03T05:12,SJT,Time in entry is in UTC. Start time should be 23:12Z. Additionally storm chaser footage shows the tornado continues roughly 5 miles further NE than what SJT surveyed
-,Haskell,TX,2024-02-02T23:31,SJT,Another tornado formed north of the dissipating EF2 tornado as shown on storm chaser videos
-1161485,Broward,FL,2024-02-18T20:55,MFL,Track may be backwards?
-1155979,Cook,IL,2024-02-28T01:55,LOT,Event entry has the wrong county. Should be Lake
-1163626,Calhoun,MI,2024-02-28T05:29,GRR,Original PNS has 1 injury. Unsure if mistake since NCEI narrative states no injuries or fatalities
-,Broome,NY,2024-02-28T2220,BGM,EF1 tornado surveyed near Castle Creek
-,Umatilla,OR,2024-03-05T19:00,PDT,At least one landspout observed
-,Putnam,OH,2024-03-05T19:29,IWX,EF0 landspout tornado surveyed
-1163820,Clinch,GA,2024-03-09T17:09,JAX,This segment of the tornado includes information for Ware Co. in segmenent 1164959
-1163819,Brantley,GA,2024-03-09T17:39,JAX,Timing of event likely incorrect. Radar indicates the storm passed an hour later or at 18:39Z
-1157001,Adams,IN,2024-03-14T22:40,IWX,Track for this segment is backwards
-,Breckinridge,KY,2024-03-15T03:32,OHX,EF0 tornado surveyed near Raymond
-1167231,Finney,KS,2024-03-24T20:30,DDC,Missing path
-,Wilbarger,TX,2024-03-24T22:27,OUN,"Multiple reports of tornado SSW of Grayback. Satellite imagery shows a possible ground mark near 33.858N, -99.168W"
-1168223,Pueblo,CO,2024-03-26T23:35,PUB,Time is likely incorrect. Original LSR has a time of 22:35Z and better correlates with a storm in that area on radar. End time is also incorrect if narrative is correct saying it lasted 2 or 3 minutes
-1169616,Lincoln,WA,2024-03-27T00:45,OTX,Possible time is incorrect. Original LSR has time at 23:50Z instead
-1168058,Fayette,WV,2024-04-02T20:31,RLX,"DAT has one injury, however no details are available and the NCEI entry does not include this injury"
-1176061,Clark,IN,2024-04-02T21:31,LMK,Possible overcount of injuries. In NCEI the summed count is 32 between Clark and Jefferson Co. but 22 should be attributed to the tornado
-1173927,Acadia,LA,2024-04-10T12:37,LCH,Time may be incorrect. Both DAT and LSR have a time of 12:27Z
-1172705,West Feliciana,LA,2024-04-10T07:13,LIX,"There were at one point three tornadoes surveyed near Bains. One was excluded (perhaps by error) that moved through Bains from the SW and a satellite ground mark is evident along that path. This entry is for the hand-off that occurred just east of the tornado that started near Morganza, however the start position of this tornado is at the end of the removed tornado path and not in the correct location of where the DAT survey has the start."
-1178254,St. Tammany,LA,2024-04-10T15:01,LIX,"Width of this tornado was 350 yards in the original survey, however even that seems incorrect with the DAT survey EF0 polygon width being over 1,000 yards wide. Perhaps it should be 1,200 yards wide instead?"
-1178283,Hancock,MS,2024-04-10T15:23,LIX,Duplicate entry of 1172764
-1172197,Mason,KY,2024-04-12T22:41,ILN,Origninally surveyed as a 90 MPH EF1. Narrative also states this
-1172021,Henry,IA,2024-04-16T21:34,DVN,Start location is misplaced from the surveyed path. End location of 1172019 also incorrect
-,Salt Lake,UT,2024-04-25T17:07,SLC,Landspout tornado reported and confirmed by numerous photos and videos
-1177375,Yuma,CO,2024-04-26T00:15,GLD,Possible the time is incorrect. Multiple LSRs of landspouts in the area around 23Z and supported with radar showing the storm well NE of location at event time
-1175146,Cheyenne,KS,2024-04-26T02:45,GLD,Incorrect time compared to LSR which is 21:45Z. Supported with radar data. Also another tornado was reported nearby which appears to be separate from this event but missing from Storm Data
-1167564,Lancaster,NE,2024-04-26T19:52,OAX,OAX should review the track of this tornado. There are multiple videos confirming and satellite markings that support this was two separate tornadoes with quick handoffs.
-1167565,Lancaster,NE,2024-04-26T20:03,OAX,This was the third and final tornado in quick succession. The track should be reviewed as footage confirms and satellite imagery shows a very well defined path south of the surveyed track and near the surveyed end of the Lincoln tornado. No path was found when reviewing satellite along the path the NWS surveyed for this tornado
-,Lancaster,NE,2024-04-26T20:06,OAX,"Video shows a brief tornado or persistent funnel, shortly after the previous EF0 tornado and before the next EF1, possibly near 41.0N -96.49W"
-1175782,Woodson,KS,2024-04-26T21:39,ICT,This segment of the track has incorrect times. Should be 20Z instead of 21Z
-1167385,Allen,KS,2024-04-26T23:02,ICT,This tornado has the incorrect times. LSR is 22Z and no storms are present at 23Z
-1165339,Brown,KS,2024-04-27T19:05,TOP,"Not necessarily an error with the entry, however satellite imagery shows a defined path through fields just north of this entry's path. Start: 39.911N, -95.386W End: 39.925N, -95.361W"
-1175409,Morgan,MO,2024-04-28T03:29,SGF,Start location is a mile or so SW of the original survey point
-1177191,Grimes,TX,2024-04-28T23:25,HGX,Width seems inaccurate at 50 yrds. Damage polygon is 1200 yards at it's widest and original survey width is 100 yards. Not sure how often WFOs follow the width of the DAT polygon
-1165426,Trinity,TX,2024-04-29T00:35,HGX,Possible overcount of injuries. Two injuried but one later fatally 
+NCEI id,County,State,Datetime,WFO,Comment,Evidence
+1156690,Santa Rosa,FL,2024-01-09T08:29,MOB,Original survey and event narrative have this tornado as an EF1 with 105 MPH winds,
+1151739,Coffee,GA,2024-01-09T17:55,JAX,This entry and Bacon Co. (1154910) are duplicate entries for a tornado that crossed both counties,
+1149965,Pinellas,FL,2024-01-09T22:23,TBW,Time is incorrect. Should be 21:23Z determined from original survey and radar data,
+1159309,Craven,NC,2024-01-10T06:03,MHX,Seems like entry time is in UTC. Should be 01:05Z,
+1159305,Carteret,NC,2024-01-10T07:05,MHX,Seems like entry time is in UTC. Start time should be 02:09Z,
+1159307,Carteret,NC,2024-01-10T07:05,MHX,"Seems like entry time is in UTC. Start time should be 02:09Z. Also missing another entry across the Straits. EF0 tornado damage surveyed, but removed in Storm Data and not categorized as severe thunderstorm winds or another tornado",
+,St. Lucie,FL,2024-01-15T22:37,MLB,Tornado reported and videos received on social media of a tornado on the ground west of I95,
+,Sonoma,CA,2024-02-01T19:11,MTR,Video shows tornado near Two Rock,
+1163222,Haskell,TX,2024-02-03T05:12,SJT,Time in entry is in UTC. Start time should be 23:12Z. Additionally storm chaser footage shows the tornado continues roughly 5 miles further NE than what SJT surveyed,
+,Haskell,TX,2024-02-02T23:31,SJT,Another tornado formed north of the dissipating EF2 tornado as shown on storm chaser videos,
+1161485,Broward,FL,2024-02-18T20:55,MFL,Track may be backwards?,
+1155979,Cook,IL,2024-02-28T01:55,LOT,Event entry has the wrong county. Should be Lake,
+1163626,Calhoun,MI,2024-02-28T05:29,GRR,Original PNS has 1 injury. Unsure if mistake since NCEI narrative states no injuries or fatalities,
+1197546,Broome,NY,2024-02-28T22:20:00,BGM,Original survey has this tornado as an 100 mph EF1,
+,Umatilla,OR,2024-03-05T19:00,PDT,At least one landspout observed,
+,Putnam,OH,2024-03-05T19:29,IWX,EF0 landspout tornado surveyed,
+1163820,Clinch,GA,2024-03-09T17:09,JAX,This segment of the tornado includes information for Ware Co. in segmenent 1164959,
+1163819,Brantley,GA,2024-03-09T17:39,JAX,Timing of event likely incorrect. Radar indicates the storm passed an hour later or at 18:39Z,
+1168736,Macoupin,IL,2024-03-14T12:56,LSX,Possible typo in time. LSR has 12:56Z which better matches the leading edge of the QLCS and velocity couplet occurrence,
+1176014,Breckinridge,KY,2024-03-14T15:32,OHX,Time and date are incorrect. Should be 03:32Z 3/15,
+1157001,Adams,IN,2024-03-14T22:40,IWX,Track for this segment is backwards,
+1167231,Finney,KS,2024-03-24T20:30,DDC,Missing path,
+,Wilbarger,TX,2024-03-24T22:27,OUN,"Multiple reports of tornado SSW of Grayback. Satellite imagery shows a possible ground mark near 33.858N, -99.168W",
+1168223,Pueblo,CO,2024-03-26T23:35,PUB,Time is likely incorrect. Original LSR has a time of 22:35Z and better correlates with a storm in that area on radar. End time is also incorrect if narrative is correct saying it lasted 2 or 3 minutes,
+1169616,Lincoln,WA,2024-03-27T00:45,OTX,Possible time is incorrect. Original LSR has time at 23:50Z instead,
+1168058,Fayette,WV,2024-04-02T20:31,RLX,"DAT has one injury, however no details are available and the NCEI entry does not include this injury",
+1176061,Clark,IN,2024-04-02T21:31,LMK,Possible overcount of injuries. In NCEI the summed count is 32 between Clark and Jefferson Co. but 22 should be attributed to the tornado,
+1173927,Acadia,LA,2024-04-10T12:37,LCH,Time may be incorrect. Both DAT and LSR have a time of 12:27Z,
+1172705,West Feliciana,LA,2024-04-10T07:13,LIX,"There were at one point three tornadoes surveyed near Bains. One was excluded (perhaps by error) that moved through Bains from the SW and a satellite ground mark is evident along that path. This entry is for the hand-off that occurred just east of the tornado that started near Morganza, however the start position of this tornado is at the end of the removed tornado path and not in the correct location of where the DAT survey has the start.",
+1178254,St. Tammany,LA,2024-04-10T15:01,LIX,"Width of this tornado was 350 yards in the original survey, however even that seems incorrect with the DAT survey EF0 polygon width being over 1,000 yards wide. Perhaps it should be 1,200 yards wide instead?",
+1178283,Hancock,MS,2024-04-10T15:23,LIX,Duplicate entry of 1172764,
+1172197,Mason,KY,2024-04-12T22:41,ILN,Origninally surveyed as a 90 MPH EF1. Narrative also states this,
+1172021,Henry,IA,2024-04-16T21:34,DVN,Start location is misplaced from the surveyed path. End location of 1172019 also incorrect,
+,Salt Lake,UT,2024-04-25T17:07,SLC,Landspout tornado reported and confirmed by numerous photos and videos,
+1177375,Yuma,CO,2024-04-26T00:15,GLD,Possible the time is incorrect. Multiple LSRs of landspouts in the area around 23Z and supported with radar showing the storm well NE of location at event time,
+1175146,Cheyenne,KS,2024-04-26T02:45,GLD,Incorrect time compared to LSR which is 21:45Z. Supported with radar data. Also another tornado was reported nearby which appears to be separate from this event but missing from Storm Data,
+1167564,Lancaster,NE,2024-04-26T19:52,OAX,OAX should review the track of this tornado. There are multiple videos confirming and satellite markings that support this was two separate tornadoes with quick handoffs.,
+1167565,Lancaster,NE,2024-04-26T20:03,OAX,This was the third and final tornado in quick succession. The track should be reviewed as footage confirms and satellite imagery shows a very well defined path south of the surveyed track and near the surveyed end of the Lincoln tornado. No path was found when reviewing satellite along the path the NWS surveyed for this tornado,
+,Lancaster,NE,2024-04-26T20:06,OAX,"Video shows a brief tornado or persistent funnel, shortly after the previous EF0 tornado and before the next EF1, possibly near 41.0N -96.49W",
+1175782,Woodson,KS,2024-04-26T21:39,ICT,This segment of the track has incorrect times. Should be 20Z instead of 21Z,
+1167385,Allen,KS,2024-04-26T23:02,ICT,This tornado has the incorrect times. LSR is 22Z and no storms are present at 23Z,
+1165339,Brown,KS,2024-04-27T19:05,TOP,"Not necessarily an error with the entry, however satellite imagery shows a defined path through fields just north of this entry's path. Start: 39.911N, -95.386W End: 39.925N, -95.361W",
+1175409,Morgan,MO,2024-04-28T03:29,SGF,Start location is a mile or so SW of the original survey point,
+1177191,Grimes,TX,2024-04-28T23:25,HGX,Width seems inaccurate at 50 yrds. Damage polygon is 1200 yards at it's widest and original survey width is 100 yards. Not sure how often WFOs follow the width of the DAT polygon,
+1165426,Trinity,TX,2024-04-29T00:35,HGX,Possible overcount of injuries. Two injured but one later fatally ,
+1176512,Gove,KS,2024-05-02T01:55,GLD,Missing Lane County segment,
+,Jones,TX,2024-05-02T23:55,SJT,"Missing tornado that preceeded Hawley tornado in Anson, TX",https://www.youtube.com/watch?v=7YG8r9cm_UY
+1188178,Jackson,MO,2024-05-07T05:39,EAX,Incorrect time. Based on PNS and LSR the start time should be 04:39Z.,
+1188181,Pettis,MO,2024-05-07T06:51,EAX,Incorrect time. Per PNS and LSR the start time should be 05:51Z,
+1188182,Randolph,MO,2024-05-07T07:43,EAX,Incorrect time. Per PNS and LSR the start time should be 06:43Z,
+1188183,Randolph,MO,2024-05-07T07:44,EAX,Incorrect time. Per PNS and LSR the start time should be 06:44Z,
+1169256,Walworth,WI,2024-05-07T19:18,MKX,Originally surveyed as an EF1 with 90 mph winds,
+1166361,Shelby,IN,2024-05-08T00:02,IND,Original time was 23:31Z. Unsure if times were adjusted to associate the tornado with another storm,
+1166362,Rush,IN,2024-05-08T00:05,IND,Original time was 23:45Z.,
+1184681,Hancock,WV,2024-05-08T05:06,PBZ,"Missing injury. LSR has a woman injured by flying glass, but missing from event entry",
+1167387,Robertson,TN,2024-05-08T19:43,OHX,Original survey width was 400 yards. Event entry lists 200 yard max width,
+1167433,Marshall,TN,2024-05-08T23:05,OHX,This segment of the track should be EF0 as that was the highest DI surveyed in the county. Width should also be double checked,
+1196593,Custer,NE,2024-07-03T23:35:00,LBF,"Time might be incorrect, or location. Circulation is 6 nm SE of LSR location at the valid entry time. At 23:25Z the circulation passes by report location",
+1200557,Fillmore,NE,2024-07-06T22:34:00,GID,Double count of damages,
+1191467,Worth,IA,2024-08-06T00:07:00,DMX,Time is off by an hour. Original survey has 01:07Z start time and matches storm passage,
+1191470,Worth,IA,2024-08-06T00:43:00,DMX,Time is off by an hour. Original survey has 01:43Z start time and matches storm passage,
+1191471,Worth,IA,2024-08-06T00:43:00,DMX,Time is off by an hour. Original survey has 01:43Z start time and matches storm passage,
+1212746,Charleston,SC,2024-08-06T01:33:00,CHS,The time is incorrect. There were no storm cells crossing the coastline near Charleston at 01:33Z. An LSR was filled at this time also. Instead the best fit time is 05:33Z and perhaps the NCEI entry time was confused with a cell crossing the coast near Edisto Beach that also produced a tornado,
+1212705,Teller,CO,2024-08-09T22:08:00,PUB,Time is incorrect. Should be 21:08Z based on radar and LSR. Also entry is a single point when the survey track is available,
+1199022,Adams,CO,2024-08-19T20:55:00,BOU,Track may be backwards. Narrative says it traveled west however the track has the tornado moving east.,
+1209224,Hidalgo,TX,2024-08-26T19:25:00,BRO,"Uncertain of the date or time. No storms near Donna, however possible for a landspout to still occur. Episode narrative suggests this event was on August 24, perhaps in error.",
